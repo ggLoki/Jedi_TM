@@ -1,0 +1,12 @@
+{
+  "name": "Jedi TM",
+  "authors": [
+    "nevolin <nevolin@lightsoft.ru>"
+  ],
+  "description": "Task manager for real Jedies",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true
+}
